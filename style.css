@@ -12,8 +12,8 @@ body {
 }
 
 .cabecalho {
-    background-color: #89f397;
-    color: rgb(243, 174, 110);
+    background-color: #ce986c;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,7 +22,7 @@ body {
 
 .cabecalho-imagem{
     width: 10%;
-}
+}k
 
 .cabecalho-lista-item{
     display: inline-block;
