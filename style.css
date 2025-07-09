@@ -70,7 +70,7 @@ body {
 }
 
 .Livros-todos{
-    display: grid;
+    display: -ms-grid ;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
