@@ -12,7 +12,7 @@ body {
 }
 
 .cabecalho {
-    background-color: #ce986c;
+    background-color: #358353;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -75,7 +75,7 @@ body {
 }
 
 .rodape{
-    background-color: #ce986c;
+    background-color: #358353;
     text-align: center;
 }
 
